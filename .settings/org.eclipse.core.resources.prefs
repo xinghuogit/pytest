@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+encoding/bool_test.py=gbk
+encoding/cyclictest.py=gbk
+encoding/dictionary_test.py=gbk
+encoding/file_test.py=gbk
 encoding/test.py=utf-8
